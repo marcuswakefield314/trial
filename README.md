@@ -1,1 +1,3 @@
-# Capstone Project
+# Capstone Project: Marketing Campaign
+
+Name: Saiquan Marcus
